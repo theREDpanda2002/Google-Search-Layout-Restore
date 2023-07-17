@@ -23,6 +23,11 @@ for actual google search,
     color: #a3a3a3 !important;
 }
 
+.zItAnd, .zItAnd:link{
+    height: 4px !important;
+    margin-top: 52px !important;
+}
+
 .fKmH1e {
     margin-top: 16px !important;
     align-items: center;
@@ -51,7 +56,24 @@ for actual google search,
     border-radius: 0px !important;
     margin-top: 16px !important;
 }
+
+.O3S9Rb {
+    margin-bottom: 40px !important
 }
+
+.nfdoRb {
+    margin-bottom: -16px !important
+}
+
+.iqd6N.cZvqf .H74b0c {
+    margin-top: 29px !important
+}
+
+.rQEFy, .rQEFy:hover {
+    background: #4769ec !important
+}
+}
+
 @-moz-document url-prefix("https://www.google.com/search") {
 for image search,
 
@@ -60,17 +82,18 @@ for image search,
 }
 
 .NZmxZe {
-    margin-top: 32px !important;
-    align-items: center !important;
+    margin-top: 68px !important;
+    align-items: end !important;
     backdrop-filter: blur(4px);
     border: 0px solid #3c4043 !important;
     border-radius: 0px !important;
     box-sizing: border-box;
     color: #a3a3a3 !important;
     display: flex;
-    height: 40px;
+    height: 4px !important;
     line-height: 40px;
     padding: 0 14px 0 12px;
+
 }
 
 .ssfWCe .ZXJQ7c {
@@ -91,5 +114,33 @@ for image search,
     padding: 0px 0 !important;
 }
 
+.m3kSL {
+    display: block !important;
+        margin-bottom: 12px !important;
+}
 
+.NZmxZe:not(.IbK1N) .DCxYpf {
+    fill: rgb(132 133 133) !important;
+}
+
+.uDetx {
+    fill: rgb(132 133 133) !important;
+            margin-bottom: 12px !important;
+}
+
+.vyDMJf-gXhOqb-Bz112c {
+    margin-bottom: 12px;
+}
+
+.QIkCq {
+    fill: rgb(132 133 133);
+    margin-right: 5px;
+    margin-bottom: 40px !important;
+}
+
+.O3S9Rb {
+    margin-bottom: 40px !important;
+    fill: rgb(132 133 133) !important;
+    color: rgb(132 133 133) !important;
+}
 }
